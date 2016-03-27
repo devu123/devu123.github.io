@@ -1,0 +1,18 @@
+html, body{height:100%}body{background:url('C:\\Users\\Deval\\Videos\\Pictures\\splatter.png') 
+}
+h1 {
+	font-family: 'Lucida Console', 'Lucida Sans Typewriter';
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+p {
+	font-family: 'Lucida Console', 'Lucida Sans Typewriter', monaco, 'Bitstream Vera Sans Mono', monospace;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}

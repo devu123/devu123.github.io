@@ -7,7 +7,7 @@ ul {
     margin: 0;
     padding: 0;
 }
-li a{
+li {
 	display: block;
 	width: 60px;
 }

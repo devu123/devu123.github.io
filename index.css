@@ -1,4 +1,7 @@
-html, body{height:100%}body{background:url('C:\\Users\\Deval\\Videos\\Pictures\\splatter.png') 
+html,
+body {
+    background-image: url("splatter.jpg");
+    background-color: #cccccc;
 }
 h1 {
 	font-family: 'Lucida Console', 'Lucida Sans Typewriter';

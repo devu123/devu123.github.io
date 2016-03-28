@@ -3,7 +3,11 @@ body {
     background-image: url(https://cloud.githubusercontent.com/assets/12666105/14068858/c4dc5d7c-f45d-11e5-88a8-314346e5eb43.jpg);
 }
 ul {
-    background-color: #F5F5DC;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
 
 li {
@@ -12,7 +16,7 @@ li {
 
 li a {
     display: block;
-    color: #005900
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;

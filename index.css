@@ -15,13 +15,13 @@ li {
 
 li a {
     display: block;
-    color: green;
+    color: #005900
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 li a:hover {
-    background-color: #111;
+    background-color: #F5F5DC;
 }
 h1 {
 	font-family: 'Lucida Console', 'Lucida Sans Typewriter';

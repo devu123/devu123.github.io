@@ -2,11 +2,6 @@ html,
 body {
     background-image: url(https://cloud.githubusercontent.com/assets/12666105/14068858/c4dc5d7c-f45d-11e5-88a8-314346e5eb43.jpg);
 }
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
 li {
     float: left;
 }

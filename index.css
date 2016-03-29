@@ -33,6 +33,10 @@ h1 {
 	line-height: 26.4px;
 }
 p {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 150px;
+	margin-left: 80px;
 	font-family: 'Lucida Console', monospace;
 	font-size: 18px;
 	font-style: normal;
